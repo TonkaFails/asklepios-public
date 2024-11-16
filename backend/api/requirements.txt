@@ -1,0 +1,9 @@
+langchain
+argparse
+chromadb==0.5.11
+flask
+langchain_community
+huggingface_hub
+python-dotenv
+Flask-Limiter
+Flask-BasicAuth

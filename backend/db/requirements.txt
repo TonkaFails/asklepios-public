@@ -1,0 +1,7 @@
+pymupdf
+langchain
+langchain-community
+tqdm
+chromadb
+argparse
+python-dotenv
